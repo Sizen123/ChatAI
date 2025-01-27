@@ -28,8 +28,8 @@ app.add_middleware(
 # Database Configuration
 mydb = mysql.connector.connect(
     host="localhost",
-    user="root", #replace with your mysql user
-    password="Sizen@123", #replace with your mysql password
+    user="xxxxxxx", #replace with your mysql user
+    password="xxxxxxx", #replace with your mysql password
     database="product_db"
 )
 
